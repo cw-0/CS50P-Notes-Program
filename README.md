@@ -1,5 +1,5 @@
 # CS50 Notes
-    ### Video Demo:  
+    Video Demo:  
     https://youtu.be/ar0Nz8PrxUU
     
 ### Description: 
