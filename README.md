@@ -2,7 +2,7 @@
     #### Video Demo:  
     https://youtu.be/ar0Nz8PrxUU
     
-    #### Description: 
+    ### Description: 
     CS50 Python Notes Program. This program is designed as an interactive tool to navigate through weekly notes, example programs, and assignments for the CS50 Python course. It provides an organized way to access resources for weeks 0 through 9. This provides a thorough, detailed, and easy way to quickly find what you are looking for. My program covers weeks 0 through 9 of the course and offers a structured, intuitive layout for quickly locating the specific resources you need. This allows users to revisit lecture notes, view example Python code, or check your submitted assignments. I created it because I wanted a simple way to keep everything in one place, and I think it can be really helpful for anyone taking the course. It’s super easy to use, and I hope it helps learn python and retain that knowledge long after.
 
 Features
