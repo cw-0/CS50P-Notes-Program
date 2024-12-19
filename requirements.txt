@@ -1,0 +1,12 @@
+threading
+cursor
+pyfiglet
+time
+os
+sys
+subprocess
+stat
+random
+win32gui
+win32con
+colorama
