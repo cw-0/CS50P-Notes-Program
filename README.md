@@ -7,15 +7,18 @@ Features
 
 Home Screen:
 - Upon running the program, you'll be greeted with a menu listing the weeks (0–9).
+![Home](README_imgs/home.png)
 
 Week Selection:
 - Type the desired week number to navigate to that week's resources.
+![resources](README_imgs/menu.png)
 
 Week Resources:
 Each week includes the following options:
 - Written Notes: Opens a PDF file containing detailed written notes for that week.
 - Example Programs: Displays example Python code relevant to the concepts taught in that week.
 - Assignments: Shows completed and submitted assignments for that week.
+![programs](README_imgs/programs.png)
 
 How to Use:
 - Run project.py
@@ -26,6 +29,7 @@ Once in the selected week:
 - Type 2 to see example programs.
 - Type 3 to view the assignments.
 - Type . to go back (or exit the program if on Home Screen).
+![Assignments](README_imgs/assignments.png)
 
 Requirements
 - Python 3
